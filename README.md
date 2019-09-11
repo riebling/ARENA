@@ -1,3 +1,5 @@
+# Please refer to https://github.com/conix-center/ARENA repository now.
+
 # ARENA
 Render 3d content in AFrame from MQTT messages
 
